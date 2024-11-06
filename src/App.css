@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#root{
+  width: 100%;
+}
+
+body{
+  /* background-color: black; */
+}
+.App{
+  /* height: 150vh; */
+  width: 100%;
+  position: relative;
+  color: white;
+}
+
+.dark body {
+  background-color: #111827; /* matches tailwind's bg-gray-900 */
+}
